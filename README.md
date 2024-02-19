@@ -1,1 +1,1 @@
-# this is a project of super cars made for learning purpose.
+# this is a project of super cars made for learning purpose
